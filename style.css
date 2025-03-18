@@ -403,9 +403,7 @@ input:focus {
     cursor: pointer;
     border: none;
     
-    
-
- }
+}
 
  /* Scroll Animate */
 
@@ -449,10 +447,10 @@ input:focus {
     border: none;
     padding:10px
     
-    
-    
-
- }
+}
+.news button:hover{
+    opacity: 0.5;
+}
 
 
  .icon{
@@ -587,4 +585,5 @@ input:focus {
 
   .contact-form input[type="submit"]:hover {
     background-color: #0056b3;
+    opacity:0.5;
   }
