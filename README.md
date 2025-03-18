@@ -12,7 +12,7 @@ To run this project locally on your machine:
 
 # Repository:
 
-
+https://akshayasri-m.github.io/Nostra/index.html
 
 # Browse through the product listings.
 Add products to the cart.
